@@ -1,0 +1,34 @@
+.contenedor{
+
+     width:100% ;
+     height: 1200px;
+     background-color: rgb(240, 250, 255);
+     display: flex;
+     flex-direction: column;
+
+}
+
+.encabezado{
+    width:100% ;
+    height: 200px;
+    background-color: rgb(255, 240, 247);
+    font-size: 40px;   
+    text-align: center;
+}  
+
+.tecnologia{
+    width:100% ;
+    height: 300px;
+    background-color: rgb(194, 253, 247);
+    text-align: center; 
+}
+.sociales{
+    width:100% ;
+    height: 400px;
+    background-color: rgb(231, 253, 142);    
+}
+.ingles{
+    width:100% ;
+    height: 800px;
+    background-color: rgb(240, 192, 242);
+}
